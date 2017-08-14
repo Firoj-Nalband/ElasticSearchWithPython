@@ -1,4 +1,4 @@
-1. First downloaded ES(elasticsearch5.5.1 given), it’s as simple as running bin/elasticsearch and you will have your ES cluster with one node running! You can interact with it at http://localhost:9200/
+1. First downloaded ES(elasticsearch-5.5.1 given), it’s as simple as running bin/elasticsearch and you will have your ES cluster with one node running! You can interact with it at http://localhost:9200/
 
 If you hit it you will get something like this:
 
